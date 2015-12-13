@@ -20,6 +20,8 @@
 		4931DF551C14ABE6005F3D91 /* ExtensionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4931DF541C14ABE6005F3D91 /* ExtensionDelegate.swift */; };
 		4931DF571C14ABE6005F3D91 /* ComplicationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4931DF561C14ABE6005F3D91 /* ComplicationController.swift */; };
 		4931DF591C14ABE6005F3D91 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4931DF581C14ABE6005F3D91 /* Assets.xcassets */; };
+		4931DF6B1C14C21D005F3D91 /* nine.png in Resources */ = {isa = PBXBuildFile; fileRef = 4931DF6A1C14C21D005F3D91 /* nine.png */; };
+		4931DF6C1C14C21D005F3D91 /* nine.png in Resources */ = {isa = PBXBuildFile; fileRef = 4931DF6A1C14C21D005F3D91 /* nine.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -82,6 +84,7 @@
 		4931DF561C14ABE6005F3D91 /* ComplicationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplicationController.swift; sourceTree = "<group>"; };
 		4931DF581C14ABE6005F3D91 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4931DF5A1C14ABE6005F3D91 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4931DF6A1C14C21D005F3D91 /* nine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nine.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +151,7 @@
 		4931DF511C14ABE6005F3D91 /* ClockKitApp WatchKit Extension */ = {
 			isa = PBXGroup;
 			children = (
+				4931DF6A1C14C21D005F3D91 /* nine.png */,
 				4931DF521C14ABE6005F3D91 /* InterfaceController.swift */,
 				4931DF541C14ABE6005F3D91 /* ExtensionDelegate.swift */,
 				4931DF561C14ABE6005F3D91 /* ComplicationController.swift */,
@@ -271,6 +275,7 @@
 			files = (
 				4931DF471C14ABE5005F3D91 /* Assets.xcassets in Resources */,
 				4931DF451C14ABE5005F3D91 /* Interface.storyboard in Resources */,
+				4931DF6B1C14C21D005F3D91 /* nine.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -279,6 +284,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4931DF591C14ABE6005F3D91 /* Assets.xcassets in Resources */,
+				4931DF6C1C14C21D005F3D91 /* nine.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
